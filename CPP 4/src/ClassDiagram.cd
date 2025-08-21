@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CircularArrayLinkedList">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAgAAAAKgAAAAAAAAAEAAAAAAADAAAQAI=</HashCode>
+      <FileName>CircularArrayLinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAkAQAAIAAAAAAAAAAAQQAAAAQAAAABAAAgAAQAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoubleLinkedDynamicList">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="DoubleLinkedDynamicList::node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DoubleLinkedDynamicList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Typedef Name="DoubleLinkedDynamicList::NODEPTR" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DoubleLinkedDynamicList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAkIAAFAAAAIAAAAAAAIAAAEHABAAAAACAAAAAAAAA=</HashCode>
+      <FileName>DoubleLinkedDynamicList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employee">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAgAAAASAAAhECAAABEAIAACAAEAgACIEAEQASACAI=</HashCode>
+      <FileName>Employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PermanentEmployee">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PermanentEmployee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TemporaryEmployee">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemporaryEmployee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
